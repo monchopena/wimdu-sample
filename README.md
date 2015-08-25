@@ -27,13 +27,13 @@ $ bower install
 
 ### My Notes 25-08-2015
 
-1. I installed Angular
+#### Installing Angular
 
 ```
 $ bower install --save angular
 ```
 
-2. Adding bower component angular
+#### Adding bower component angular
 
 ```
 <!-- build:js scripts/vendor.js -->
@@ -43,9 +43,7 @@ $ bower install --save angular
 <!-- endbuild -->
 ```
 
-3. Prepare to angular
-
-Into app/index.html
+#### Changing app/index.html for work with Angular
 
 ```
 <html ng-app="app">
@@ -56,13 +54,13 @@ And
 <body ng-controller="MainCtrl">
 ```
 
-4. Prepare Jasmine to use in angular
+#### Prepare Jasmine to use in angular
 
 ```
 $ bower install --save angular-mocks
 ```
 
-5. Adding dependences
+#### Adding dependences
 
 ```
 <script type="text/javascript" src="../bower_components/angular/angular.js"></script>
