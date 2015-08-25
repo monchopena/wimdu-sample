@@ -67,3 +67,6 @@ $ bower install --save angular-mocks
 <script type="text/javascript" src="../bower_components/angular-mocks/angular-mocks.js"></script>
 ```
 
+#### Sample dist working
+
+http://wimdu.bdunk.com/
