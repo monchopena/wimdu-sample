@@ -60,7 +60,7 @@ And
 $ bower install --save angular-mocks
 ```
 
-#### Adding dependences
+#### Adding dependences in app/test/index.hmtl
 
 ```
 <script type="text/javascript" src="../bower_components/angular/angular.js"></script>
