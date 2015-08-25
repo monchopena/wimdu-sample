@@ -54,7 +54,7 @@ And
 <body ng-controller="MainCtrl">
 ```
 
-#### Prepare Jasmine to use in angular
+#### Prepare Jasmine to use with angular
 
 ```
 $ bower install --save angular-mocks
