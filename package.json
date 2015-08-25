@@ -1,6 +1,12 @@
 {
-  "name": "fe_task",
-  "version": "0.0.0",
+  "name": "wimdu-sample",
+  "version": "1.0.0",
+  "author": "Moncho Pena",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monchopena/wimdu-sample.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "connect": "^2.14.4",
